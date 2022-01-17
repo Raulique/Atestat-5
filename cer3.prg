@@ -1,0 +1,5 @@
+SET TALK OFF
+CLOSE ALL
+CLEAR
+CALCULATE AVG(pret) FOR condspec TO x
+?x

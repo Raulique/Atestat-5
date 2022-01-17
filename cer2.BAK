@@ -1,0 +1,6 @@
+SET TALK Off
+CLOSE ALL
+CLEAR
+SORT TO sortat ON pret DESCENDING 
+GO TOP 
+?denumire

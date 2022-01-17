@@ -1,0 +1,4 @@
+SET TALK OFF
+CLOSE ALL
+CLEAR
+LIST denumire for stoc<100

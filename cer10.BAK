@@ -1,0 +1,8 @@
+*Care este produsul ce se gaseste în stoc în cea mai mare cantitate?
+SET TALK OFF
+CLOSE all
+CLEAR
+SORT TO sortat2 ON stoc DESCENDING 
+USE sortat2
+GO top
+?denumire
